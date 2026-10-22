@@ -1,0 +1,22 @@
+# Node & Build artifacts
+node_modules/
+dist/
+web/dist/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android & Gradle
+.gradle/
+build/
+**/build/
+android/local.properties
+*.iml
+.idea/
+.vscode/
+*.apk
+
+# OS files
+.DS_Store
+Thumbs.db
